@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She || her 
 - ⚡ Fun fact: I love Travelling || learning || dancing || movies
 
-![alt text](https://github.com/cuddle-bunny/level_up/blob/master/images/weatherAppLevelUp.jpg)
+![alt text](https://github.com/cuddle-bunny/level_up/blob/master/images/weatherAppLevelUp.jpg)width=50% height=50%>
 
