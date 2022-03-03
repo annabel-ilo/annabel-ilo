@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 
 
 <img src="https://github.com/cuddle-bunny/level_up/blob/master/images/weatherAppLevelUp.jpg" width="400px" height="700px">
-Screenshoot of the weather App from Level_up repository
+# Screenshoot of the weather App from Level_up repository
