@@ -1,8 +1,8 @@
-# Having the skill to build a mobile applocation is a dream come true to me.
-Here are some ideas to get you started o knowing me:
+# Having the skill to build mobile applocation is a dream come true to me.
+Here are some ideas to get you started on knowing me:
 
 - 🔭 I’m currently working on a project that will improve social and financial management by younger adults. The project is not a personal application, so i cannot share more information. It's an exiting project and i am proud to being a part of the developers. 
-- 🌱 I’m currently learning Cloud Engineering
+- 🌱 I’m currently learning Cloud Engineering with focus towards AWS, [with AltSchool of Engineering Africa](https://www.altschoolafrica.com/#).
 - 👯 I’m looking to collaborate on Flutter Development || cloud Engineering
 - 🤔 I’m looking for help with Cloud Engineering
 - 💬 Ask me about ...
