@@ -12,5 +12,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love Travelling || learning || dancing || movies
 
 
+                      
+                      Screenshoot of a UI for a weather info application
 <img src="https://github.com/cuddle-bunny/level_up/blob/master/images/weatherAppLevelUp.jpg" width="300px" height="500px">
-      Screenshoot of the weather App from Level_up repository
+
+
+
+                     Screenshoot of User Interface for a tip-split application
+                     
+      
