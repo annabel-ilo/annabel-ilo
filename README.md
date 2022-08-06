@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
                      Screenshoot of User Interface for a tip-split application
  <img src="https://github.com/annabel-ilo/level_up/blob/master/images/billSplit.jpg" width="300px" height="500px">
- <img scr= "https://github.com/annabel-ilo/level_up/blob/master/images/billSplit2.jpg" width="300px" height="500px">
+ <img scr="https://github.com/annabel-ilo/level_up/blob/master/images/billSplit2.jpg" width="300px" height="500px">
       
